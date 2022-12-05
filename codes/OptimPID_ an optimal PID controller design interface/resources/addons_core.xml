@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<addonCore>
+
+  <label>OptimPID: an optimal PID controller design interface</label>
+
+  <version>1.0.0.0</version>
+
+  <type>zip</type>
+
+  <identifier>e584bb05-4a80-11e4-9553-005056977bd0</identifier>
+
+  <createdBy name="Dingyu Xue"/>
+
+  <image>resources/screenshot.png</image>
+
+</addonCore>
